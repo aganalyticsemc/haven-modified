@@ -16,8 +16,8 @@
 #include "readstat_sav.h"
 #include "readstat_spss_parse.h"
 
-#define MAX_STRING_SIZE             1000
-#define MAX_LABEL_SIZE              1000
+#define MAX_STRING_SIZE             256
+#define MAX_LABEL_SIZE              256
 #define MAX_VALUE_LABEL_SIZE        120
 
 static long readstat_label_set_number_short_variables(readstat_label_set_t *r_label_set) {
