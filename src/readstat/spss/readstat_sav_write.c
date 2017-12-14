@@ -17,7 +17,7 @@
 #include "readstat_sav.h"
 #include "readstat_spss_parse.h"
 
-#define MAX_STRING_SIZE             255
+#define MAX_STRING_SIZE             300
 #define MAX_LABEL_SIZE              256
 #define MAX_VALUE_LABEL_SIZE        120
 
